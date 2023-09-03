@@ -7,7 +7,7 @@ Authorization: Bearer {{key}}
   "messages": [
     {
       "role": "user",
-      "content": "How many ducks fit in a pond?"
+      "content": "Who wrote 10000 leagues under the sea?"
     }
   ],
   "functions": [
